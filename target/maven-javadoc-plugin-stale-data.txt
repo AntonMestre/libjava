@@ -1,0 +1,40 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'/Users/antoninmaystre/Workspace/fakeLib/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/Users/antoninmaystre/Workspace/fakeLib/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'fakeLib 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'fakeLib 1.0-SNAPSHOT API'
+fr.antonincorp
+/Users/antoninmaystre/Workspace/fakeLib/src/main/java = 1726932867763
+/Users/antoninmaystre/Workspace/fakeLib/target/reports/apidocs/tag-search-index.js = 1726949969274
+/Users/antoninmaystre/Workspace/fakeLib/target/reports/apidocs/overview-tree.html = 1726949969270
+/Users/antoninmaystre/Workspace/fakeLib/target/reports/apidocs/module-search-index.js = 1726949969274
+/Users/antoninmaystre/Workspace/fakeLib/target/reports/apidocs/index.html = 1726949969278
+/Users/antoninmaystre/Workspace/fakeLib/target/reports/apidocs/package-search-index.js = 1726949969274
+/Users/antoninmaystre/Workspace/fakeLib/target/reports/apidocs/index-all.html = 1726949969277
+/Users/antoninmaystre/Workspace/fakeLib/target/reports/apidocs/allpackages-index.html = 1726949969274
+/Users/antoninmaystre/Workspace/fakeLib/target/reports/apidocs/member-search-index.js = 1726949969274
+/Users/antoninmaystre/Workspace/fakeLib/target/reports/apidocs/help-doc.html = 1726949969280
+/Users/antoninmaystre/Workspace/fakeLib/target/reports/apidocs/javadoc.sh = 1726949591844
+/Users/antoninmaystre/Workspace/fakeLib/target/reports/apidocs/element-list = 1726949969261
+/Users/antoninmaystre/Workspace/fakeLib/target/reports/apidocs/search.html = 1726949969278
+/Users/antoninmaystre/Workspace/fakeLib/target/reports/apidocs/allclasses-index.html = 1726949969273
+/Users/antoninmaystre/Workspace/fakeLib/target/reports/apidocs/type-search-index.js = 1726949969274
